@@ -1,0 +1,15 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ash Green', '11111111111', 2000.00, '2001-07-25', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Bishop White', '22222222222', 1900.00, '1980-08-15', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Call Red', '33333333333', 1800.00, '1994-01-22', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Delta Yellow', '44444444444', 1700.00, '1980-11-15', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Eliot Grey', '55555555555', 1600.00, '1982-10-09', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Fabio Black', '66666666666', 1500.00, '2001-07-07', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Giovane Blue', '77777777777', 2100.00, '2002-08-26', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Hipolito Brown', '88888888888', 2200.00, '2001-07-17', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Izidio Purple', '99999999999', 2300.00, '2003-08-18', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Julio Orange', '00000000000', 2400.00, '2005-04-12', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Khate Pink', '12345678900', 2500.00, '1998-03-02', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Lucia Gold', '12312312311', 1750.00, '1996-12-28', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Mirian Silver', '34534534512', 1950.00, '1990-09-30', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Nicolas Olive', '13579135791', 2250.00, '1987-10-26', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Octavius Cyan', '24680246802', 1850.00, '2001-06-14', 1);
