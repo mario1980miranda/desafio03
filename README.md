@@ -25,7 +25,7 @@ classDiagram
     Client : -Integer children
 ```
 
-==o projeto deve conter um seed de pelo menos 10 clientes==
+>Atenção: **o projeto deve conter um seed de pelo menos 10 clientes**
 
 O projeto deverá tratar as seguintes exceções:
 
